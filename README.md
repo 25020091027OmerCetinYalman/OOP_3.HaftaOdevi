@@ -1,1 +1,1 @@
-# OOP_3.HaftaOdevi
+Nesne yönelimli programlama dersi 3.hafta ödevi
